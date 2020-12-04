@@ -8,22 +8,22 @@ https://medium.com/@phylypo/overview-of-time-series-forecasting-from-statistical
 Topics and corresponding notebooks:
 - Introduction to TS (*Time_Series_ES_ARIMA.ipynb*)
 - Decompose (*Time_Series_FFT.ipynb*)
- - Gen Synthic
- - Decompose FFT
+  - Gen Synthic
+  - Decompose FFT
 - Naive approaches (*Time_Series_ES_ARIMA.ipynb*)
 - Statistical (*Time_Series_ES_ARIMA.ipynb*)
- - Smoothing techniques (MA, ES)
- - ARIMA
- - State Space (*Time_Series_StateSpace.ipynb*)
+  - Smoothing techniques (MA, ES)
+  - ARIMA
+  - State Space (*Time_Series_StateSpace.ipynb*)
 - ML (*Time_Series_ML-LR_XGBoost.ipynb*)
   - Linear Regression
   - Decision Tree (XGBoost)
 - DL (*Time_Series_DL_LSTM_CNN.ipynb*)
- - LSTM, CNN + LSTM
- - TCN (*Time_Series_DL_TCN_LSTNet.ipynb*)
- - LSTNet
- - TFT (*Time_Series_DL_TFT_N-BEATS.ipynb*)
- - N-BEATS
+  - LSTM, CNN + LSTM
+  - TCN (*Time_Series_DL_TCN_LSTNet.ipynb*)
+  - LSTNet
+  - TFT (*Time_Series_DL_TFT_N-BEATS.ipynb*)
+  - N-BEATS
 - Commercial: (*Time_Series_FBProphet_DeepAR.ipynb*)
- - Facebook Prophet
- - Amazon DeepAR
+  - Facebook Prophet
+  - Amazon DeepAR
