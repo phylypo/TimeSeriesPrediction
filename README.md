@@ -2,15 +2,15 @@
 
 ## Overview of Time Series Forecasting from Statistical to Recent ML Approaches 
 
-These notebooks are supplement material for the blog here: (Overview of Time Series Forecasting from Statistical to Recent ML Approaches)[https://medium.com/@phylypo/overview-of-time-series-forecasting-from-statistical-to-recent-ml-approaches-c51a5dd4656a]
+These notebooks are supplement material for the blog here: [Overview of Time Series Forecasting from Statistical to Recent ML Approaches](https://medium.com/@phylypo/overview-of-time-series-forecasting-from-statistical-to-recent-ml-approaches-c51a5dd4656a)
 
 Topics and corresponding notebooks:
-- Introduction to TS (*(Time_Series_Intro_ES_ARIMA.ipynb.ipynb)[https://colab.research.google.com/github/phylypo/TimeSeriesPrediction/blob/main/Time_Series_Intro_ES_ARIMA.ipynb.ipynb]*)
+- Introduction to TS (_[Time_Series_Intro_ES_ARIMA.ipynb.ipynb](https://colab.research.google.com/github/phylypo/TimeSeriesPrediction/blob/main/Time_Series_Intro_ES_ARIMA.ipynb.ipynb)_)
 - Decompose (*Time_Series_FFT.ipynb*)
   - Gen Synthic
   - Decompose FFT
-- Naive approaches (*(Time_Series_Intro_ES_ARIMA.ipynb.ipynb)[https://colab.research.google.com/github/phylypo/TimeSeriesPrediction/blob/main/Time_Series_Intro_ES_ARIMA.ipynb.ipynb]*)
-- Statistical (*(Time_Series_Intro_ES_ARIMA.ipynb.ipynb)[https://colab.research.google.com/github/phylypo/TimeSeriesPrediction/blob/main/Time_Series_Intro_ES_ARIMA.ipynb.ipynb]*)
+- Naive approaches (_[Time_Series_Intro_ES_ARIMA.ipynb.ipynb](https://colab.research.google.com/github/phylypo/TimeSeriesPrediction/blob/main/Time_Series_Intro_ES_ARIMA.ipynb.ipynb)_)
+- Statistical (_[Time_Series_Intro_ES_ARIMA.ipynb.ipynb](https://colab.research.google.com/github/phylypo/TimeSeriesPrediction/blob/main/Time_Series_Intro_ES_ARIMA.ipynb.ipynb)_)
   - Smoothing techniques (MA, ES)
   - ARIMA
   - State Space (*Time_Series_StateSpace.ipynb*)
